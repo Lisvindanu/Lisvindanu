@@ -1,7 +1,7 @@
-### Hi there 👋
-
-<!--
+### 
 **Lisvinda![guts](https://github.com/Lisvindanu/Lisvindanu/assets/116244150/f1401ac6-290b-4abc-808c-48c73b91c23a)
+<!--
+
 nu/Lisvindanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
