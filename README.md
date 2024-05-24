@@ -6,3 +6,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lisvindanu&layout=compact&theme=dark&hide_border=true)
 ![Profile Views](https://komarev.com/ghpvc/?username=Lisvindanu&color=blue)
 ![Total Views](https://img.shields.io/github/watchers/Lisvindanu/Lisvindanu?style=social)
+![](https://komarev.com/ghpvc/?username=Lisvindanu)
