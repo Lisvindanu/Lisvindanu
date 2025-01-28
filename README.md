@@ -6,12 +6,13 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lisvindanu&show_icons=true&theme=tokyonight)](https://github.com/Lisvindanu)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lisvindanu&layout=compact&theme=tokyonight)](https://github.com/Lisvindanu)
-
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=Lisvindanu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </span>
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lisvindanu&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </span>
 </div>
 
 ## 👁️ Profile Views
