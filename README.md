@@ -1,40 +1,39 @@
 # Lisvindanu
-> Backend Developer & Android Engineer
+> Junior Backend Developer
 
 ## About Me
-Software Engineer specializing in backend development and Android applications, with expertise in Kotlin and Spring Boot. Focused on creating scalable solutions and robust mobile experiences.
+I'm a passionate backend developer focusing on Spring Boot and Kotlin. Currently learning and growing my skills in server-side development while building practical projects to enhance my experience.
 
-## Technical Expertise
-- **Backend Development**: Spring Boot, Kotlin, Java
-- **Mobile Development**: Android (Kotlin)
-- **Database Systems**: MySQL
-- **Tools & Practices**: Git, REST API Design, CI/CD
-- **Architecture**: Server-Side Application Design, Database Optimization
+## Technical Skills
+- **Core**: Java, Kotlin
+- **Framework**: Spring Boot
+- **Database**: MySQL
+- **Version Control**: Git
+- **Currently Learning**: REST API Design, Database Optimization
 
-## Featured Project: VirtualRealm API
-A production-grade e-commerce platform API powering RetroGamesHub, implementing modern backend architecture principles.
+## Current Project: VirtualRealm API
+My learning project - an e-commerce platform API built with Spring Boot. This project helps me understand backend development fundamentals.
 
-**Project URL**: [retrogameshub.virtual-realm.my.id](https://retrogameshub.virtual-realm.my.id/)
+**Demo**: [retrogameshub.virtual-realm.my.id](https://retrogameshub.virtual-realm.my.id/)
 
-### Technical Stack
-- Spring Boot REST API with Kotlin
+### Tech Stack
+- Spring Boot with Kotlin
 - MySQL Database
-- JWT Authentication
-- OpenAPI Documentation
+- Basic Authentication
+- API Documentation
 
-### Key Features
-- Secure Authentication System
-- Product Management
-- Order Processing
-- User Management
-- RESTful Architecture
+### Features I've Built
+- User Authentication
+- Basic Product Management
+- Order System
+- API Endpoints
 
-## GitHub Analytics
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lisvindanu&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lisvindanu&layout=compact&theme=dark)
 
-## Professional Network
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+## Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/Lisvindanu)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)](https://github.com/Lisvindanu)
 
 ---
