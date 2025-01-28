@@ -1,11 +1,14 @@
 # 👋 Hi there, I'm Lisvindanu
-> 🚀 Backend Developer | 📱 Android Developer | 💻 Tech Enthusiast
+> Software Engineer specializing in Backend Development and Android Applications
 
 <div align="center">
   <img src="https://github.com/Lisvindanu/Lisvindanu/blob/main/Screenshot%202024-12-04%20044606.png" alt="Profile Banner" width="800"/>
 </div>
 
-## 🛠️ Tech Stack
+## About Me
+I'm a passionate software engineer focusing on backend development and Android applications. With expertise in Kotlin and Spring Boot, I create scalable solutions and engaging mobile experiences.
+
+## 🛠️ Technology Stack
 <div align="center">
   
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -17,8 +20,7 @@
 
 </div>
 
-## 📊 GitHub Stats
-
+## 📈 Analytics
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <span>
     <img src="https://github-readme-stats.vercel.app/api?username=Lisvindanu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -28,37 +30,42 @@
   </span>
 </div>
 
-## 🎯 Current Focus
-- 🔭 I'm currently working on **VirtualRealm API Project**
-- 🌱 I'm learning **Kotlin, Java, Spring Boot & MySQL**
-- 🎯 Focused on becoming a **Backend & Android Developer**
-- 💡 Interested in **Server-Side Architecture & Mobile Development**
-- 💬 Ask me about **Kotlin, Java, Spring Boot, or Android Development**
+## 💼 Professional Focus
+- Backend Development with Spring Boot and Kotlin
+- Android Application Development
+- REST API Design and Implementation
+- Database Architecture and Optimization
+- Server-Side Application Architecture
 
-## 🚀 Featured Project
-### VirtualRealm API
-A robust RESTful API built with Spring Boot powering the RetroGamesHub platform at [retrogameshub.virtual-realm.my.id](https://retrogameshub.virtual-realm.my.id/)
+## 🎯 Featured Project: VirtualRealm API
 
-**Key Features:**
-- 🎮 Manages retrogameshub store data and user interactions
-- 🔐 Secure authentication and authorization system
-- 📊 RESTful endpoints for game management
-- 🗄️ MySQL database integration
-- 📱 Supports web and mobile clients
+### Overview
+A sophisticated e-commerce platform API powering RetroGamesHub, built with modern architecture principles and best practices in backend development.
 
-**Tech Stack:**
-- Backend: Spring Boot & Kotlin
-- Database: MySQL
-- Documentation: Swagger/OpenAPI
+**Live Project:** [retrogameshub.virtual-realm.my.id](https://retrogameshub.virtual-realm.my.id/)
 
-## 🏆 GitHub Trophies
+### Technical Specifications
+- **Architecture:** REST API built with Spring Boot
+- **Primary Language:** Kotlin
+- **Database:** MySQL with optimized queries
+- **Documentation:** OpenAPI/Swagger specification
+- **Security:** JWT-based authentication, role-based access control
+
+### Core Features
+- Secure user authentication and authorization
+- Comprehensive product management system
+- Order processing and tracking
+- User profile management
+- RESTful endpoint architecture
+
+## 🏆 Achievements
 <div align="center">
   
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Lisvindanu&theme=tokyonight&row=1)
 
 </div>
 
-## 🌐 Connect With Me
+## 🤝 Professional Network
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
@@ -67,8 +74,7 @@ A robust RESTful API built with Spring Boot powering the RetroGamesHub platform 
 
 </div>
 
-## 👁️ Profile Views
-
+## 📊 Profile Analytics
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Lisvindanu&color=blue&style=flat-square)
@@ -78,7 +84,6 @@ A robust RESTful API built with Spring Boot powering the RetroGamesHub platform 
 </div>
 
 ## 🎮 Gaming Profile
-
 <div align="center">
   
 [![PSN Profile](https://card.psnprofiles.com/1/Lisvindanu-.png)](https://psnprofiles.com/Lisvindanu-)
