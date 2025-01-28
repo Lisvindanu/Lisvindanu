@@ -1,12 +1,35 @@
-<H1 align="center"> It's me, Lisvindanu </H1>
-<p align="center"> i want to know 
-<p align="center">
-  <img src="https://github.com/Lisvindanu/Lisvindanu/blob/main/Screenshot 2024-12-04 044606.png" /> 
-</p>
+# 👋 Hi there, I'm Lisvindanu
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lisvindanu&layout=compact&theme=dark&hide_border=false)
-![Profile Views](https://komarev.com/ghpvc/?username=Lisvindanu&color=blue)
-![Total Views](https://img.shields.io/github/watchers/Lisvindanu/Lisvindanu?style=social)
+<div align="center">
+  <img src="https://github.com/Lisvindanu/Lisvindanu/blob/main/Screenshot%202024-12-04%20044606.png" alt="Profile Banner" width="800"/>
+</div>
 
+## 📊 GitHub Stats
 
-<a href="https://psnprofiles.com/Lisvindanu-"><img src="https://card.psnprofiles.com/1/Lisvindanu-.png" border="0"></a>
+<div align="center">
+  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lisvindanu&show_icons=true&theme=tokyonight)](https://github.com/Lisvindanu)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lisvindanu&layout=compact&theme=tokyonight)](https://github.com/Lisvindanu)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lisvindanu&theme=tokyonight)](https://github.com/Lisvindanu)
+
+</div>
+
+## 👁️ Profile Views
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Lisvindanu&color=blue&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Lisvindanu?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Lisvindanu?style=social)
+
+</div>
+
+## 🎮 Gaming Profile
+
+<div align="center">
+  
+[![PSN Profile](https://card.psnprofiles.com/1/Lisvindanu-.png)](https://psnprofiles.com/Lisvindanu-)
+
+</div>
