@@ -33,7 +33,7 @@ My learning project - an e-commerce platform API built with Spring Boot. This pr
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lisvindanu&layout=compact&theme=dark)
 
 ## Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/Lisvindanu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)]([https://linkedin.com/in/Lisvindanu](https://www.linkedin.com/in/lisvindanu-889aa329a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)](https://github.com/Lisvindanu)
 
 ---
