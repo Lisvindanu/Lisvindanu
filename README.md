@@ -8,3 +8,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Lisvindanu&color=blue)
 ![Total Views](https://img.shields.io/github/watchers/Lisvindanu/Lisvindanu?style=social)
 
+
+<a href="https://psnprofiles.com/Lisvindanu-"><img src="https://card.psnprofiles.com/1/Lisvindanu-.png" border="0"></a>
