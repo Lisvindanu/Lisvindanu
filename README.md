@@ -12,8 +12,6 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lisvindanu&layout=compact&theme=tokyonight)](https://github.com/Lisvindanu)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lisvindanu&theme=tokyonight)](https://github.com/Lisvindanu)
-
 </div>
 
 ## 👁️ Profile Views
