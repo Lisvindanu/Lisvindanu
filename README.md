@@ -1,96 +1,41 @@
-# 👋 Hi there, I'm Lisvindanu
-> Software Engineer specializing in Backend Development and Android Applications
-
-<div align="center">
-  <img src="https://github.com/Lisvindanu/Lisvindanu/blob/main/Screenshot%202024-12-04%20044606.png" alt="Profile Banner" width="800"/>
-</div>
+# Lisvindanu
+> Backend Developer & Android Engineer
 
 ## About Me
-I'm a passionate software engineer focusing on backend development and Android applications. With expertise in Kotlin and Spring Boot, I create scalable solutions and engaging mobile experiences.
+Software Engineer specializing in backend development and Android applications, with expertise in Kotlin and Spring Boot. Focused on creating scalable solutions and robust mobile experiences.
 
-## 🛠️ Technology Stack
-<div align="center">
-  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## Technical Expertise
+- **Backend Development**: Spring Boot, Kotlin, Java
+- **Mobile Development**: Android (Kotlin)
+- **Database Systems**: MySQL
+- **Tools & Practices**: Git, REST API Design, CI/CD
+- **Architecture**: Server-Side Application Design, Database Optimization
 
-</div>
+## Featured Project: VirtualRealm API
+A production-grade e-commerce platform API powering RetroGamesHub, implementing modern backend architecture principles.
 
-## 📈 Analytics
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=Lisvindanu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </span>
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lisvindanu&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </span>
-</div>
+**Project URL**: [retrogameshub.virtual-realm.my.id](https://retrogameshub.virtual-realm.my.id/)
 
-## 💼 Professional Focus
-- Backend Development with Spring Boot and Kotlin
-- Android Application Development
-- REST API Design and Implementation
-- Database Architecture and Optimization
-- Server-Side Application Architecture
+### Technical Stack
+- Spring Boot REST API with Kotlin
+- MySQL Database
+- JWT Authentication
+- OpenAPI Documentation
 
-## 🎯 Featured Project: VirtualRealm API
+### Key Features
+- Secure Authentication System
+- Product Management
+- Order Processing
+- User Management
+- RESTful Architecture
 
-### Overview
-A sophisticated e-commerce platform API powering RetroGamesHub, built with modern architecture principles and best practices in backend development.
+## GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lisvindanu&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lisvindanu&layout=compact&theme=dark)
 
-**Live Project:** [retrogameshub.virtual-realm.my.id](https://retrogameshub.virtual-realm.my.id/)
-
-### Technical Specifications
-- **Architecture:** REST API built with Spring Boot
-- **Primary Language:** Kotlin
-- **Database:** MySQL with optimized queries
-- **Documentation:** OpenAPI/Swagger specification
-- **Security:** JWT-based authentication, role-based access control
-
-### Core Features
-- Secure user authentication and authorization
-- Comprehensive product management system
-- Order processing and tracking
-- User profile management
-- RESTful endpoint architecture
-
-## 🏆 Achievements
-<div align="center">
-  
-![Trophy](https://github-profile-trophy.vercel.app/?username=Lisvindanu&theme=tokyonight&row=1)
-
-</div>
-
-## 🤝 Professional Network
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-
-</div>
-
-## 📊 Profile Analytics
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Lisvindanu&color=blue&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/Lisvindanu?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/Lisvindanu?style=social)
-
-</div>
-
-## 🎮 Gaming Profile
-<div align="center">
-  
-[![PSN Profile](https://card.psnprofiles.com/1/Lisvindanu-.png)](https://psnprofiles.com/Lisvindanu-)
-
-</div>
+## Professional Network
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)](https://github.com/Lisvindanu)
 
 ---
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Lisvindanu&color=blue&style=flat)
