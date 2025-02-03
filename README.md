@@ -1,5 +1,5 @@
 # Lisvindanu
-> Junior Backend Developer
+> Learning Backend Developer
 
 ## About Me
 I'm a passionate backend developer focusing on Spring Boot and Kotlin. Currently learning and growing my skills in server-side development while building practical projects to enhance my experience.
