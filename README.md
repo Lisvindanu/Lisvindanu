@@ -15,7 +15,7 @@
 
 🔭 I’m currently working on [**Virtual Blogs Mobile App**](https://github.com/Lisvindanu/VirtualBlog-Client)
 
-### 📱 Dark Mode Preview
+### 📱 Preview
 ![VirtualBlog Mobile Preview](https://raw.githubusercontent.com/Lisvindanu/Lisvindanu/main/Screenshot%202025-06-03%20183713.png)
 
 - 🌱 I’m currently learning **Go, Ktor, Spring Boot**  
