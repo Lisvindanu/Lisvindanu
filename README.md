@@ -13,7 +13,11 @@
 
 ---
 
-- 🔭 I’m currently working on [**Virtual Blogs Mobile App**](https://github.com/Lisvindanu/VirtualBlog-Client)  
+🔭 I’m currently working on [**Virtual Blogs Mobile App**](https://github.com/Lisvindanu/VirtualBlog-Client)
+
+### 📱 Dark Mode Preview
+![VirtualBlog Mobile Preview](https://raw.githubusercontent.com/Lisvindanu/Lisvindanu/main/Screenshot%202025-06-03%20183713.png)
+
 - 🌱 I’m currently learning **Go, Ktor, Spring Boot**  
 - 👯 I’m looking to collaborate on [**Music-related applications and creative tech projects**](https://github.com/Lisvindanu/VirtualRealmMusic)  
 - 🤝 I’m looking for help with UI/UX design improvements and new feature ideas for [VirtualRealmMusic](https://github.com/Lisvindanu/VirtualRealmMusic)  
