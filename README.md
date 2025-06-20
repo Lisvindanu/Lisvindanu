@@ -78,6 +78,6 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lisvindanu&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lisvindanu&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
