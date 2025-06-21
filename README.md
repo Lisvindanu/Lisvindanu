@@ -82,7 +82,3 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lisvindanu&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Lisvindanu&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
