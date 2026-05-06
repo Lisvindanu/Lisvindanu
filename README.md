@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Lisvindanu</h1>
-<h3 align="center">A passionate Informatics Engineering student and software developer from Indonesia.</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Lisvindanu;Backend+%26+Mobile+Engineer;Building+Scalable+Systems" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">Backend Engineer · Android Developer · Indonesia 🇮🇩</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lisvindanu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -7,72 +10,97 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lisvindanu&theme=gruvbox" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=lisvindanu&theme=gruvbox&no-frame=true&row=1&column=8" alt="Trophies" />
   </a>
 </p>
 
 ---
 
-🔭 I’m currently working on [**Virtual Blogs Mobile App**](https://github.com/Lisvindanu/VirtualBlog-Client)
+### 👨‍💻 About Me
 
-### 📱 Preview
-![VirtualBlog Mobile Preview](https://raw.githubusercontent.com/Lisvindanu/Lisvindanu/main/Screenshot%202025-06-03%20183713.png)
+```kotlin
+val lisvindanu = Developer(
+    name     = "Lisvindanu",
+    role     = listOf("Backend Engineer", "Android Developer"),
+    stack    = listOf("Kotlin", "Go", "Java", "Spring Boot", "Ktor"),
+    focus    = "Building scalable, production-ready backend systems",
+    location = "Jawa Barat, Indonesia 🇮🇩"
+)
+```
 
-- 🌱 I’m currently learning **Go, Ktor, Spring Boot**  
-- 👯 I’m looking to collaborate on [**Music-related applications and creative tech projects**](https://github.com/Lisvindanu/VirtualRealmMusic)  
-- 🤝 I’m looking for help with UI/UX design improvements and new feature ideas for [VirtualRealmMusic](https://github.com/Lisvindanu/VirtualRealmMusic)  
-- 👨‍💻 All of my projects are available at [**my portfolio**](https://portofolio.vinmedia.my.id/)  
-- 📫 Reach me at: **Lisvindanu015@gmail.com** | **Anaphygon@protonmail.com**
+- 🔭 Currently building **enterprise-grade backend & microservice systems**
+- 🌱 Deepening expertise in **distributed systems, clean architecture & cloud infrastructure**
+- ⚡ Passionate about **API design, system reliability, and developer tooling**
+- 👨‍💻 All projects available at [**anaphygon.my.id**](https://anaphygon.my.id/)
+- 📫 Reach me: **Lisvindanu015@gmail.com** · **Anaphygon@protonmail.com**
 
 ---
 
-<h3>🔗 Connect with me</h3>
+### 🔗 Connect with Me
+
 <p>
   <a href="https://linkedin.com/in/lisvindanu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/lisvindanu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:Lisvindanu015@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 ---
 
-<h3>🛠️ Languages and Tools</h3>
+### 🛠️ Tech Stack
+
+**Languages**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" />
-  <img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" alt="Laravel" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+**Frameworks & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
+
+**Databases & Messaging**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+**Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-<h3>📊 GitHub Stats</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lisvindanu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lisvindanu&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lisvindanu&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lisvindanu&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lisvindanu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
